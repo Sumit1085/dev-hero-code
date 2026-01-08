@@ -7,6 +7,10 @@
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
 }
+hr{
+    width: 118%;
+    margin-bottom: 20px;
+}
 header{
     background-color: #FFF8F3;
     padding-top: 50px;
